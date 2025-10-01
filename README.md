@@ -1,4 +1,9 @@
-README Propuesto
+## CREADO POR 
+Nombre: Johnny Vera 
+estudianrte de la universidad Estatal Amazónica (UEA)
+Asignatura: Sistemas Operativos 
+Semestre. Segundo semestre 
+
 ## Proyecto: Simulación de Fragmentación Externa en la Asignación de Memoria
 # Descripción
 
