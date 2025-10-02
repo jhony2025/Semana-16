@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Botón Añadir: btn_add = ttk.Button(top_frame, text=\"Añadir (Enter)\", command=self.add_task)",
+    "completed": true
+  },
+  {
+    "text": "Botón Marcar como Completada btn_complete = ttk.Button(top_frame, text=\"Marcar como completada (C)\", command=self.mark_selected_completed)",
+    "completed": false
+  },
+  {
+    "text": "Botón Eliminar: btn_delete = ttk.Button(top_frame, text=\"Eliminar (Delete / D)\", command=self.delete_selected_task)",
+    "completed": false
+  },
+  {
+    "text": "Botón Guardar_ btn_save = ttk.Button(bottom_frame, text=\"Guardar\", command=self.save_tasks)",
+    "completed": false
+  },
+  {
+    "text": "Botón Cargar: btn_load = ttk.Button(bottom_frame, text=\"Cargar\", command=self.load_tasks)",
+    "completed": false
+  }
+]
